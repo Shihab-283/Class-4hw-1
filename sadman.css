@@ -1,0 +1,23 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+
+p{
+    color: blue;
+}
+
+
+p{
+    color: blueviolet;
+}
+
+
+h4{
+    font-weight: 400;
+    font-size: 20px;
+}
+pre{
+    font-weight: 100;
+    line-height: 25px;
+}
